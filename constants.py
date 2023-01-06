@@ -12,9 +12,15 @@ MARKS = {
     "English": 34,
     "Sanskrit": 76
 }
+
+MARKS_LIST = [{"Math": 89}, {"English": 34}, {"Sanskrit": 76}]
 STUDENT = {
     "roll_number": None,
     "name": ""
 }
+STUDENT_LIST = [{
+    'name': 'Siddhesh',
+    'roll_number': 20110199
+}]
 TOTAL_STUDENTS = 10
 BRANCH = ['Electrical', 'Chemical', 'Materials']

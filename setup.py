@@ -11,6 +11,8 @@ setup(
         "numdifftools",
         "jax",
         "jaxlib",
-        "sympy"
+        "sympy",
+        "matplotlib",
+        "pandas"
     ],
 )

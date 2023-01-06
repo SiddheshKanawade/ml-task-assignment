@@ -3,3 +3,5 @@ numdifftools
 jax
 jaxlib
 sympy
+matplotlib
+pandas
