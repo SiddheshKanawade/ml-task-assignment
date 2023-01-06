@@ -1,1 +1,5 @@
 numpy
+numdifftools
+jax
+jaxlib
+sympy
